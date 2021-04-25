@@ -19,7 +19,7 @@ int adim=0;                                                                 //IS
 int number;                                                                 //RANDOM SAYI DEGISKENI
 int paraustu=0,p5=0,p10=0,p20=0,p50=0,p100=0;
 int islemtutar=0;                                                           //SECILEN ISLEMLERIN FIYAT TOPLAMI
-int sayac=0;
+int sayac=5;
 
 void setup() {
   pinMode(yesil,OUTPUT);
