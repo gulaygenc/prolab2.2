@@ -1,4 +1,3 @@
-# prolab2.2
-En az sayıda banknot verme
+# En Az Sayıda Banknot Verme
 
 Kullanılan programlar: Proteus, Arduino IDE
